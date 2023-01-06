@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.cover-section{
+    background-color: #FFF8F3;
+    background-image: url('/images/header_bg.png'), url('/images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+}
+.nav-contain{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 15%;
+}
+.primary-text{
+    font-size: 40px;
+    font-weight: 700;
+}
+span{
+    color: #FD6E0A;
+}
+.seconday-text{
+    color: gray;
+    font-size: 20px;
+}
+.primary-btn{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #FD6E0A;
+    border: 0 solid;
+    border-radius: 5px;
+    padding: 20px 30px;
+    cursor: pointer;
+}
+ul li {
+    list-style: none;
+    display: inline;
+    text-align: center;
+    margin-left: 50px;
+}
+.cover-body{
+    display: flex;
+    margin: 0 15%;
+}
+.portfolio-name{
+    margin-top: 20px;
+    font-size: 70px;
+}
+.about{
+    margin: 100px;
+    background-color: #FFF8F3;
+    padding: 100px;
+    text-align: center;
+}
+.about-me{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.about-dec{
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+.cont-by{
+    font-size: large;
+    font-weight: 600;
+}
+.what-do{
+    margin: 100px;
+}
+.Work{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.work-lists{
+    display: flex;
+    gap: 20px;
+}
+.list-item{
+    padding: 30px;
+    background-color: #fdf8f8;
+    border-radius: 5px;
+}
+.list-tile{
+    margin: 10px 0;
+}
+.list-dec{
+    color: gray;
+    font-size: 18px; 
+}
+.resume{
+    margin: 100px;
+}
+.resume-tilte{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.resume-items{
+    display: flex;
+    gap: 20px;
+}
+.edu-head{
+    margin-bottom: 30px;
+}
+.edu-title{
+    font-size: 30px;
+    font-weight: 600;
+    color: gray;
+    margin: 10px 0;
+}
+.edu-uni{
+    color: #b8b7b7;
+    font-weight: 600;
+    margin: 10px 0;
+}
+.edu-dec{
+    color: gray;
+    font-size: 18px; 
+    margin-bottom: 20px;
+}
+.resume-btn{
+    text-align: center;
+}
+footer{
+    margin: 0 100px;
+    background-color: #FFF8F3;
+}
+.footer{
+    display: flex;
+    padding: 100px 150px;
+    gap: 20px;
+}
+.connect{
+    width: 700px;
+}
+.footer-title{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 20px 0;
+}
+.con-dec{
+    color: gray;
+    font-size: 18px; 
+    margin-bottom: 20px;
+    width: 350px;
+}
+.name{
+    margin: 10px 0;
+    padding: 10px;
+    border: 0;
+    width: 100%;
+}
